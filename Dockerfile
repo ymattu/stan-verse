@@ -1,4 +1,4 @@
-FROM ymattu:myverse:rstudio
+FROM ymattu/myverse:rstudio
 MAINTAINER ymattu
 
 RUN apt-get update \
